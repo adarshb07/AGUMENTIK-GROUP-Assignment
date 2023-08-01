@@ -1,0 +1,31 @@
+@font-face {
+	font-family: "Neue Plak Wide Black";
+	src: url("../assets/fonts/Neue Plak Wide/NeuePlak-WideBlack.ttf");
+}
+@font-face {
+	font-family: "Neue Plak Wide Bold";
+	src: url("../assets/fonts/Neue Plak Wide/NeuePlak-WideBold.ttf");
+}
+@font-face {
+	font-family: "Neue Plak Wide SemiBold";
+	src: url("../assets/fonts/Neue Plak Wide/NeuePlak-WideSemiBold.ttf");
+}
+@font-face {
+	font-family: "Neue Plak Wide";
+	src: url("../assets/fonts/Neue Plak Wide/NeuePlak-WideRegular.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+.np-bold {
+	font-family: "Neue Plak Wide Bold";
+}
+.np-black {
+	font-family: "Neue Plak Wide Black";
+}
+.np-semibold {
+	font-family: "Neue Plak Wide SemiBold";
+}
+.np {
+	font-family: "Neue Plak Wide";
+}
